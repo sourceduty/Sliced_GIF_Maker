@@ -16,6 +16,8 @@ A key feature of this program is its adaptability. Users can adjust the number o
 ### Related Links
 
 [Extra ChatGPT Images](https://github.com/sourceduty/Extra_ChatGPT_Images)
+<br>
+[Face Zoom GIF](https://github.com/sourceduty/Face_Zoom_GIF)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
