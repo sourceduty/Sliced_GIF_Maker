@@ -12,5 +12,10 @@ The program begins with a straightforward "Load Image" button that allows users 
 
 A key feature of this program is its adaptability. Users can adjust the number of pieces the image is divided into, offering flexibility in the complexity and length of the resulting GIF. Moreover, the program's design ensures that the final GIF maintains the original dimensions of the loaded image, preserving its quality and resolution. The last frame's extended display time enhances the viewer's experience by providing a moment of rest and recognition of the complete image. This combination of technical precision and thoughtful user experience design makes the program a powerful tool for both casual users and those needing a reliable image processing solution.
 
+#
+### Related Links
+
+[Extra ChatGPT Images](https://github.com/sourceduty/Extra_ChatGPT_Images)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
